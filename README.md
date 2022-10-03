@@ -3,4 +3,4 @@
 
 **GH Pages** - https://codedeoj.github.io/tutorial-build-session-2/
 
-**[Responsive Navbar Tutorial](https://www.youtube.com/watch?v=At4B7A4GOPg) by Web Dev Simplified**
+**Tutorial link** - [Responsive Navbar Tutorial](https://www.youtube.com/watch?v=At4B7A4GOPg) by Web Dev Simplified
